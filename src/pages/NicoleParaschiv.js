@@ -15,8 +15,11 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I'm Nicole. I have a poodle and I love and miss her so much!
-            I am from Washington State!
+            Hey I'm Nicole. I have a poodle and I love and miss her so much! 🐩
+            I am from Washington State!🗻
+            I love to ski and fall is my favorite season.
+            My favorite color is green!
+            
           </p>
 
           <a className='button' href='/'>
