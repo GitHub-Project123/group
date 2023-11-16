@@ -10,19 +10,13 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            src='https://media.licdn.com/dms/image/D4E03AQEwspApowvprw/profile-displayphoto-shrink_200_200/0/1693275520954?e=2147483647&v=beta&t=9oHMhceIQxqOx2kuDPQH5pIKDrBj3dMoy3edGKi5YDA'
+            alt='nicole paraschiv'
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            Hey I'm Nicole. I have a poodle and I love and miss her so much!
+            I am from Washington State!
           </p>
 
           <a className='button' href='/'>
