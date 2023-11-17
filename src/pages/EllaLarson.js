@@ -62,6 +62,7 @@ export default function examplePage() {
           .description {
             line-height: 1.5;
             font-size: 1.5rem;
+            font-type: Monaco;
           }
 
           .pic {
