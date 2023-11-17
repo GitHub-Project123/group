@@ -15,7 +15,11 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hi, My Name Is Ella!!!
+            I'm from California and have 3 dogs, Frankie, Harley, and Lucy. I love to spend my time 
+            watching Greys Anatomy or hangingout with my friends. I wouldn't describe myself as super 
+            social, but my roomate does tell me I'm super chatty and always have something to talk 
+            about. I am super excited for our break because I get to see my boyfriend and eat a lot
+            of great food!
           </p>
 
           <a className='button' href='/'>
