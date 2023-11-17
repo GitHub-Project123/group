@@ -16,9 +16,9 @@ export default function examplePage() {
 
           <p className='description'>
             I'm from California and have 3 dogs, Frankie, Harley, and Lucy. I love to spend my time 
-            watching Greys Anatomy or hangingout with my friends. I wouldn't describe myself as super 
+            watching Greys Anatomy or hanging out with my friends. I wouldn't describe myself as super 
             social, but my roomate does tell me I'm really chatty and always have something to talk 
-            about. I am super excited for our break because I get to see my boyfriend and eat a lot
+            about. I am excited for our break because I get to see my boyfriend and eat a lot
             of great food!
           </p>
 
