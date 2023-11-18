@@ -15,7 +15,7 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I'm Addison. I like my dog, trader joe's mac and cheese, and not much else."
+            Hi, I'm Addison. I like my dog, trader joe's mac and cheese, and not much else. I'm in the top three percent of highest 2048 scores and am currently a hardworking farmer in hayday.
           </p>
 
           <a className='button' href='/'>
