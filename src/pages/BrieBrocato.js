@@ -15,13 +15,9 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey, I am Brie Brocato.  I play soccer and love to be outdoors.  My favorite activities are
-            playing candy crush, hammocking, and looking at pinterest.
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            Hey, I'm Brie Brocato and I am from Golden, CO!
+            I love to ski, hike, hammock, and just be outdoors. Some other activities
+            I enjoy include playing candy crush, looking at pinterest, and playing soccer.
           </p>
 
           <a className='button' href='/'>
