@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
+            src='https://media.licdn.com/dms/image/D4E03AQENfQGvfFjf6g/profile-displayphoto-shrink_400_400/0/1700458407975?e=1706140800&v=beta&t=07o0zUnxT3znV5JHCI-iTpTUQruiEifGjGNNT2BFBVA'
             alt='tom holland'
           />
 
